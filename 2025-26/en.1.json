@@ -2065,6 +2065,14 @@
       "team1": "Crystal Palace FC",
       "team2": "Manchester United FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -2191,6 +2199,14 @@
       "team1": "Manchester United FC",
       "team2": "West Ham United FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
