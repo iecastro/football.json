@@ -2297,6 +2297,14 @@
       "team1": "Wolverhampton Wanderers FC",
       "team2": "Manchester United FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
       }
     },
     {
